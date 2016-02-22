@@ -18,7 +18,7 @@ html, body {
 }
 
 h1 {
-  color: red;
+  color: blue;
   text-align: center;
   font-weight: 400;
   font-size: 72px;
@@ -263,7 +263,7 @@ a {
       height: 712px;
       display: inline-block;
       margin: 48px 0;
-      background: red;
+      background: -webkit-image-set( url('../images/all-mobile.png') 1x, url('../images/all-mobile@2x.png') 2x );
   }
 
   .footer {
