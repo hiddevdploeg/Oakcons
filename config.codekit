@@ -11,6 +11,28 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/assets\/images\/all-mobile.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23752,
+		"inputAbbreviatedPath": "\/assets\/images\/all-mobile.png",
+		"outputAbbreviatedPath": "\/assets\/images\/all-mobile.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/all-mobile@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 59341,
+		"inputAbbreviatedPath": "\/assets\/images\/all-mobile@2x.png",
+		"outputAbbreviatedPath": "\/assets\/images\/all-mobile@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/images\/files-iconjar.png": {
 		"fileType": 32768,
 		"ignore": 0,
