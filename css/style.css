@@ -299,7 +299,7 @@ a:hover {
     height: 712px;
     display: inline-block;
     margin: 48px 0;
-    background: -webkit-image-set(url("../images/all-mobile.png") 1x, url("../images/all-mobile@2x.png") 2x);
+    background: red;
   }
 
   .footer {
