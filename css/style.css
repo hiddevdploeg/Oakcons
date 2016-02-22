@@ -12,7 +12,7 @@ html, body {
 }
 
 h1 {
-  color: green;
+  color: #F21779;
   text-align: center;
   font-weight: 400;
   font-size: 72px;
@@ -124,7 +124,7 @@ p.tagline {
       -ms-flex-direction: column;
           flex-direction: column;
   border-bottom: 1px solid #E1E4E5;
-  background: -webkit-image-set(url("../images/pattern.png") 1x, url("../images/pattern@2x.png") 2x);
+  background: -webkit-image-set(url("../assets/images/pattern.png") 1x, url("../assets/images/pattern@2x.png") 2x);
 }
 .head .info {
   background: rgba(255, 255, 255, 0.8);
@@ -161,7 +161,7 @@ span.all {
   height: 280px;
   display: inline-block;
   margin: 48px 0;
-  background: -webkit-image-set(url("../images/icons.png") 1x, url("../images/icons@2x.png") 2x);
+  background: -webkit-image-set(url("../assets/images/icons.png") 1x, url("../assets/images/icons@2x.png") 2x);
 }
 span.price {
   color: rgba(255, 255, 255, 0.7);
@@ -171,7 +171,7 @@ span.release {
   height: 80px;
   display: inline-block;
   margin: 48px 0;
-  background: -webkit-image-set(url("../images/R2.png") 1x, url("../images/R2@2x.png") 2x);
+  background: -webkit-image-set(url("../assets/images/R2.png") 1x, url("../assets/images/R2@2x.png") 2x);
 }
 span.image {
   width: 80px;
@@ -181,13 +181,13 @@ span.image {
   margin-bottom: 48px;
 }
 span.image.svg {
-  background: -webkit-image-set(url("../images/files-svg.png") 1x, url("../images/files-svg@2x.png") 2x);
+  background: -webkit-image-set(url("../assets/images/files-svg.png") 1x, url("../assets/images/files-svg@2x.png") 2x);
 }
 span.image.sketch {
-  background: -webkit-image-set(url("../images/files-sketch.png") 1x, url("../images/files-sketch@2x.png") 2x);
+  background: -webkit-image-set(url("../assets/images/files-sketch.png") 1x, url("../assets/images/files-sketch@2x.png") 2x);
 }
 span.image.iconjar {
-  background: -webkit-image-set(url("../images/files-iconjar.png") 1x, url("../images/files-iconjar@2x.png") 2x);
+  background: -webkit-image-set(url("../assets/images/files-iconjar.png") 1x, url("../assets/images/files-iconjar@2x.png") 2x);
 }
 
 a {
@@ -226,7 +226,7 @@ a:hover {
 }
 
 .footer {
-  background: -webkit-image-set(url("../images/pattern-pink.png") 1x, url("../images/pattern-pink@2x.png") 2x);
+  background: -webkit-image-set(url("../assets/images/pattern-pink.png") 1x, url("../assets/images/pattern-pink@2x.png") 2x);
   width: 100%;
   height: 108px;
   overflow: auto;
@@ -299,10 +299,11 @@ a:hover {
     height: 712px;
     display: inline-block;
     margin: 48px 0;
-    background: -webkit-image-set(url("../images/all-mobile.png") 1x, url("../images/all-mobile@2x.png") 2x);
+    background: -webkit-image-set(url("../assets/images/all-mobile.png") 1x, url("../assets/images/all-mobile@2x.png") 2x);
   }
 
   .footer {
+    display: none;
     padding: 6px 12px;
   }
   .footer a.button {
