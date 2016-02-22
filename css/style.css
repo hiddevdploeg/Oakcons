@@ -179,6 +179,14 @@ span.image {
   display: block;
   margin: 0 auto;
   margin-bottom: 48px;
+  -webkit-transform: scale(0.7);
+          transform: scale(0.7);
+  -webkit-transition: .2s ease-in-out;
+  transition: .2s ease-in-out;
+}
+span.image:hover {
+  -webkit-transform: scale(1);
+          transform: scale(1);
 }
 span.image.svg {
   background: -webkit-image-set(url("../assets/images/files-svg.png") 1x, url("../assets/images/files-svg@2x.png") 2x);
@@ -212,8 +220,8 @@ a.button {
   margin: 0 auto;
   margin-top: 84px;
   margin-bottom: 36px;
-  -webkit-transition: background 400ms ease-out;
-  transition: background 400ms ease-out;
+  -webkit-transition: 400ms ease-out;
+  transition: 400ms ease-out;
 }
 a.button:hover {
   color: #fff;

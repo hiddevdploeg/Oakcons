@@ -154,6 +154,9 @@ span {
     display: block;
     margin: 0 auto;
     margin-bottom: 48px;
+    transform: scale(.7);
+    transition: .2s ease-in-out;
+    &:hover{ transform: scale(1); }
     &.svg { background: -webkit-image-set( url('../assets/images/files-svg.png') 1x, url('../assets/images/files-svg@2x.png') 2x ); }
     &.sketch { background: -webkit-image-set( url('../assets/images/files-sketch.png') 1x, url('../assets/images/files-sketch@2x.png') 2x ); }
     &.iconjar { background: -webkit-image-set( url('../assets/images/files-iconjar.png') 1x, url('../assets/images/files-iconjar@2x.png') 2x ); }
@@ -166,6 +169,7 @@ a {
 
   &.-center {
     text-align: center;
+
     &:hover {
       color: rgba($pink, .5);
       border-bottom: 0px;
@@ -183,7 +187,7 @@ a {
     margin: 0 auto;
     margin-top: 84px;
     margin-bottom: 36px;
-    transition: background 400ms ease-out;
+    transition: 400ms ease-out;
 
     &:hover {
       color: #fff;
