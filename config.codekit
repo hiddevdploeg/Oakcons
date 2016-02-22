@@ -238,6 +238,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/style.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/style.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -246,9 +255,9 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/style.scss",
-		"outputAbbreviatedPath": "\/css\/style.css",
+		"outputAbbreviatedPath": "\/style.css",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
+		"outputPathIsSetByUser": 1,
 		"outputStyle": 1,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,

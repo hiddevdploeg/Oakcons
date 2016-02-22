@@ -18,7 +18,7 @@ html, body {
 }
 
 h1 {
-  color: blue;
+  color: green;
   text-align: center;
   font-weight: 400;
   font-size: 72px;
@@ -96,7 +96,7 @@ p {
   display: flex;
   flex-direction: column;
   border-bottom: 1px solid $divider;
-  background: -webkit-image-set( url('../images/pattern.png') 1x, url('../images/pattern@2x.png') 2x );
+  background: -webkit-image-set( url('assets/images/pattern.png') 1x, url('assets/images/pattern@2x.png') 2x );
 
   .info {
     background: rgba(255,255,255,.8);
@@ -137,7 +137,7 @@ span {
     height: 280px;
     display: inline-block;
     margin: 48px 0;
-    background: -webkit-image-set( url('../images/icons.png') 1x, url('../images/icons@2x.png') 2x );
+    background: -webkit-image-set( url('assets/images/icons.png') 1x, url('assets/images/icons@2x.png') 2x );
   }
   &.price { color: rgba(#fff, .7); }
   &.release {
@@ -145,7 +145,7 @@ span {
     height: 80px;
     display: inline-block;
     margin: 48px 0;
-    background: -webkit-image-set( url('../images/R2.png') 1x, url('../images/R2@2x.png') 2x );
+    background: -webkit-image-set( url('assets/images/R2.png') 1x, url('assets/images/R2@2x.png') 2x );
   }
 
   &.image{
@@ -154,9 +154,9 @@ span {
     display: block;
     margin: 0 auto;
     margin-bottom: 48px;
-    &.svg { background: -webkit-image-set( url('../images/files-svg.png') 1x, url('../images/files-svg@2x.png') 2x ); }
-    &.sketch { background: -webkit-image-set( url('../images/files-sketch.png') 1x, url('../images/files-sketch@2x.png') 2x ); }
-    &.iconjar { background: -webkit-image-set( url('../images/files-iconjar.png') 1x, url('../images/files-iconjar@2x.png') 2x ); }
+    &.svg { background: -webkit-image-set( url('assets/images/files-svg.png') 1x, url('assets/images/files-svg@2x.png') 2x ); }
+    &.sketch { background: -webkit-image-set( url('assets/images/files-sketch.png') 1x, url('assets/images/files-sketch@2x.png') 2x ); }
+    &.iconjar { background: -webkit-image-set( url('assets/images/files-iconjar.png') 1x, url('assets/images/files-iconjar@2x.png') 2x ); }
   }
 }
 
@@ -198,7 +198,7 @@ a {
 }
 
 .footer {
-  background: -webkit-image-set( url('../images/pattern-pink.png') 1x, url('../images/pattern-pink@2x.png') 2x );
+  background: -webkit-image-set( url('assets/images/pattern-pink.png') 1x, url('assets/images/pattern-pink@2x.png') 2x );
   width: 100%;
   height: 108px;
   overflow: auto;
@@ -263,7 +263,7 @@ a {
       height: 712px;
       display: inline-block;
       margin: 48px 0;
-      background: -webkit-image-set( url('../images/all-mobile.png') 1x, url('../images/all-mobile@2x.png') 2x );
+      background: -webkit-image-set( url('assets/images/all-mobile.png') 1x, url('assets/images/all-mobile@2x.png') 2x );
   }
 
   .footer {
