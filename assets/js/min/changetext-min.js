@@ -1,0 +1,1 @@
+function changeText(){element.innerHTML=text[counter],counter++,counter>=text.length&&(counter=0)}var text=["Web","iOS","App","Android","All your"],counter=0,element=document.getElementById("types");setInterval(changeText,2500);
