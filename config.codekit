@@ -156,24 +156,24 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/images\/R2.png": {
+	"\/assets\/images\/R3.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2664,
-		"inputAbbreviatedPath": "\/assets\/images\/R2.png",
-		"outputAbbreviatedPath": "\/assets\/images\/R2.png",
+		"initialSize": 673,
+		"inputAbbreviatedPath": "\/assets\/images\/R3.png",
+		"outputAbbreviatedPath": "\/assets\/images\/R3.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/images\/R2@2x.png": {
+	"\/assets\/images\/R3@2x.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 7540,
-		"inputAbbreviatedPath": "\/assets\/images\/R2@2x.png",
-		"outputAbbreviatedPath": "\/assets\/images\/R2@2x.png",
+		"initialSize": 1551,
+		"inputAbbreviatedPath": "\/assets\/images\/R3@2x.png",
+		"outputAbbreviatedPath": "\/assets\/images\/R3@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

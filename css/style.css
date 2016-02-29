@@ -158,7 +158,7 @@ span.type {
 }
 span.all {
   width: 856px;
-  height: 280px;
+  height: 329px;
   display: inline-block;
   margin: 48px 0;
   background: -webkit-image-set(url("../assets/images/icons.png") 1x, url("../assets/images/icons@2x.png") 2x);
@@ -171,7 +171,7 @@ span.release {
   height: 80px;
   display: inline-block;
   margin: 48px 0;
-  background: -webkit-image-set(url("../assets/images/R2.png") 1x, url("../assets/images/R2@2x.png") 2x);
+  background: -webkit-image-set(url("../assets/images/R3.png") 1x, url("../assets/images/R3@2x.png") 2x);
 }
 span.image {
   width: 80px;
