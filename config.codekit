@@ -178,6 +178,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/images\/R4.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2956,
+		"inputAbbreviatedPath": "\/assets\/images\/R4.png",
+		"outputAbbreviatedPath": "\/assets\/images\/R4.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/R4@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8083,
+		"inputAbbreviatedPath": "\/assets\/images\/R4@2x.png",
+		"outputAbbreviatedPath": "\/assets\/images\/R4@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/R5.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3718,
+		"inputAbbreviatedPath": "\/assets\/images\/R5.png",
+		"outputAbbreviatedPath": "\/assets\/images\/R5.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/R5@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10441,
+		"inputAbbreviatedPath": "\/assets\/images\/R5@2x.png",
+		"outputAbbreviatedPath": "\/assets\/images\/R5@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/js\/changetext.js": {
 		"fileType": 64,
 		"ignore": 0,
