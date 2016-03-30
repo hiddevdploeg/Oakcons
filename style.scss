@@ -141,6 +141,7 @@ span {
   &.price { color: rgba(#fff, .7); }
   &.release {
     width: 600px;
+    height:128px;
     display: inline-block;
     margin: 48px 0;
     background: -webkit-image-set( url('../assets/images/R5.png') 1x, url('../assets/images/R5@2x.png') 2x );
