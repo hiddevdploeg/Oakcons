@@ -137,7 +137,7 @@ p.tagline {
 }
 .head ul {
   list-style-type: none;
-  max-width: 640px;
+  text-align: center;
   margin: 0 auto;
   margin-top: 172px;
 }
