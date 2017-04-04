@@ -158,10 +158,10 @@ span.type {
 }
 span.all {
   width: 856px;
-  height: 376px;
+  height: 383px;
   display: inline-block;
   margin: 48px 0;
-  background: -webkit-image-set(url("../assets/images/icons.png") 1x, url("../assets/images/icons@2x.png") 2x);
+  background: -webkit-image-set(url("../icons.png") 1x, url("../icons@2x.png") 2x);
 }
 span.price {
   color: rgba(255, 255, 255, 0.7);
